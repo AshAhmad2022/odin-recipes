@@ -1,1 +1,1 @@
-# odin-recipes
+The current project is concerned with the recipe of one's favorite dish.Main skills required for this will be HTML only.
